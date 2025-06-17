@@ -3,6 +3,25 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --color-dark-brown: #150803;
+--color-bright-red: #C54417;
+--color-deep-orange: #BF3100;
+--color-burnt-orange: #B7400E;
+--color-warm-brown: #AF4E1B;
+--color-earthy-brown: #A75C29;
+--color-muted-brown: #9E6A36;
+--color-soft-beige: #C2B6AA;
+  --color-light-beige: #E8DCCB;
+  --color-cream: #F5F0E6;
+  --color-ivory: #F9F4ED;
+  --color-sand: #D6CFC2;
+  --color-tan: #D1BFA7;
+  --color-warm-gray: #A89F91;
+  --color-cool-gray: #B0B3A7;
+  --color-dark-gray: #7A7C70;
+  --color-charcoal: #4E4F45;
+  --font-geist-sans: "Geist Sans", sans-serif;
+  --font-geist-mono: "Geist Mono", monospace;
 }
 
 @theme inline {
